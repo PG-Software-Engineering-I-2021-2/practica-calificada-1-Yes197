@@ -1,0 +1,7 @@
+organization=pg-software-engineering-i-2021-2
+projectKey=org.example:AgenteVirtual
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.24170
+dashboardUrl=https://sonarcloud.io/dashboard?id=org.example%3AAgenteVirtual
+ceTaskId=AXyv0qq9yB3ztYSCpQjB
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXyv0qq9yB3ztYSCpQjB
