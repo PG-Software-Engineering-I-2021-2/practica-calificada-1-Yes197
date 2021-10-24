@@ -7,7 +7,7 @@ public class Autor {
     private String name;
     private Date birthDate;
 
-    @ManyToMany
+
     private ArrayList <Libro> libros;
 
     public Autor(String name, Date birthDate, ArrayList <Libro> libros) {

@@ -7,7 +7,7 @@ public class Libro {
     private int year;
     private String autor;
 
-    @ManyToMany
+
     private final ArrayList<Autor> autors = new ArrayList<>();
 
 
