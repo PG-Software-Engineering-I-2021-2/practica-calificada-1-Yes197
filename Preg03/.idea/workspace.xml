@@ -8,6 +8,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/AgenteVirtualLibreria/Libro.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AgenteVirtualLibreria/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AgenteVirtualLibreria/Autor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635037248607</updated>
-      <workItem from="1635037250220" duration="803000" />
+      <workItem from="1635037250220" duration="1539000" />
     </task>
     <servers />
   </component>
