@@ -5,23 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67ed661b-db29-4710-b778-0874f8515b61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/a/4/a4ff516efed3914124f99db7dcecc9d6063605f3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/c/b/cbfe548304141459c3b6421a10302b3e79294054" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BioAlertSystem/ChatApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/BioAlert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/CopiaID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/LibroCopia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/RulerControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/TimeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/VerificaEstado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/ICopia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/IEstudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/ILibro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/IRulerControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/SystemBioAlert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/a/4/a4ff516efed3914124f99db7dcecc9d6063605f3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/c/b/cbfe548304141459c3b6421a10302b3e79294054" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AgenteVirtualLibreria/org/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entities/Autor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AgenteVirtualLibreria/org/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entities/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/BioAlert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entities/BioAlert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/LibroCopia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entities/LibroCopia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/RulerControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entities/RulerControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/TimeBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/VerificaEstado.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +52,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -71,7 +70,8 @@
       <workItem from="1635037250220" duration="1884000" />
       <workItem from="1636162306953" duration="1615000" />
       <workItem from="1636163966428" duration="663000" />
-      <workItem from="1636164662477" duration="2765000" />
+      <workItem from="1636164662477" duration="4709000" />
+      <workItem from="1636202021432" duration="5046000" />
     </task>
     <servers />
   </component>

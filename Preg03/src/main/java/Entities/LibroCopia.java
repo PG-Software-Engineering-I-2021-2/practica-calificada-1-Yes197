@@ -5,14 +5,17 @@ public class LibroCopia {
     private int year;
     private String autor;
     private int identificador;
+    private String estado;
+    private int diasPrestamo;
 
-    public LibroCopia(String name, int year, String autor, int identificador) {
+    public LibroCopia(String name, int year, String autor, int identificador, String estado, int diasPrestamo) {
         this.name = name;
         this.year = year;
         this.autor = autor;
         this.identificador = identificador;
+        this.estado = estado;
+        this.diasPrestamo = diasPrestamo;
     }
-
 
     public String getName() {
         return name;
@@ -45,4 +48,13 @@ public class LibroCopia {
     public void setIdentificador(int identificador) {
         this.identificador = identificador;
     }
+
+    public String getEstado() {
+        return estado;
+    }
+
+    public void setEstado(String estado) {
+        this.estado = estado;
+    }
+
 }

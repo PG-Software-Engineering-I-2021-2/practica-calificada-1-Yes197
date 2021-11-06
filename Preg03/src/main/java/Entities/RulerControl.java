@@ -1,10 +1,17 @@
 package Entities;
 
-public class RulerControl implements TimeBook {
+public class RulerControl implements IRulerControl {
 
-    void tiempoPrestamo(int diasPrestamo) {
-        if (VerificarTiempo(diasPrestamo)){
-            System.out.println("Se impondrá una multa por exceder tiempo limite de préstamo");
+    private int diasPrestamo;
+    private String estado;
+
+
+    public Boolean VerificarTiempo(int diasPrestamo){
+        if (diasPrestamo > 30){
+            return Boolean.TRUE;
+        }
+        else{
+            return Boolean.FALSE;
         }
     }
 
