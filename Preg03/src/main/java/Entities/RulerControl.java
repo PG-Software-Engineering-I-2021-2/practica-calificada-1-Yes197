@@ -6,8 +6,8 @@ public class RulerControl implements IRulerControl {
     private String estado;
 
 
-    public Boolean VerificarTiempo(int diasPrestamo){
-        if (diasPrestamo > 30){
+    public Boolean verificarTiempo(int diasPrestamo){
+        if (diasPrestamo <= 30){
             return Boolean.TRUE;
         }
         else{
@@ -15,9 +15,12 @@ public class RulerControl implements IRulerControl {
         }
     }
 
-    void estadoVerificador(String estado) {
-        if (estado.equals("biblioteca")) {
-            ;
+    public Boolean estadoVerificador(String estado) {
+        if (estado.equals("en biblioteca")) {
+            return Boolean.TRUE;
+        }
+        else{
+            return Boolean.FALSE;
         }
 
     }

@@ -1,6 +1,6 @@
 package Entities;
 
-public interface SystemBioAlert {
+public interface ISystemBioAlert {
 
     ILibro crearLibro();
     ICopia crearCopia();

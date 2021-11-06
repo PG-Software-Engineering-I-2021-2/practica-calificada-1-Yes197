@@ -1,6 +1,8 @@
 package Entities;
 
 public interface IRulerControl {
-    boolean VerificarTiempo(int diasPrestamo);
-    BioAlert solicitarPrestamo ();
+
+    Boolean verificarTiempo(int diasPrestamo);
+    Boolean estadoVerificador(String estado);
+
 }

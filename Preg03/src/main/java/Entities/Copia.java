@@ -1,6 +1,6 @@
 package Entities;
 
-public class LibroCopia {
+public class Copia {
     private String name;
     private int year;
     private String autor;
@@ -8,7 +8,7 @@ public class LibroCopia {
     private String estado;
     private int diasPrestamo;
 
-    public LibroCopia(String name, int year, String autor, int identificador, String estado, int diasPrestamo) {
+    public Copia(String name, int year, String autor, int identificador, String estado, int diasPrestamo) {
         this.name = name;
         this.year = year;
         this.autor = autor;

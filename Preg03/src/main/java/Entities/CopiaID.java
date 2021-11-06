@@ -2,8 +2,10 @@ package Entities;
 
 public class CopiaID {
 
-    private String estado;
+    private String estado = "en biblioteca";
     private int identificador;
+
+
 
     public String getEstado() {
         return estado;
