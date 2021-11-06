@@ -5,10 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67ed661b-db29-4710-b778-0874f8515b61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AgenteVirtualLibreria/Libro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/a/4/a4ff516efed3914124f99db7dcecc9d6063605f3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/c/b/cbfe548304141459c3b6421a10302b3e79294054" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BioAlertSystem/ChatApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/BioAlert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/CopiaID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/LibroCopia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/RulerControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/TimeBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/VerificaEstado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AgenteVirtualLibreria/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AgenteVirtualLibreria/Autor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AgenteVirtualLibreria/org/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entities/Autor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AgenteVirtualLibreria/org/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entities/Libro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +32,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -26,17 +40,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1zvn5KeUafqdyl3851Oni5pDQgm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lab06_Software" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -51,7 +68,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635037248607</updated>
-      <workItem from="1635037250220" duration="1539000" />
+      <workItem from="1635037250220" duration="1884000" />
+      <workItem from="1636162306953" duration="1615000" />
+      <workItem from="1636163966428" duration="663000" />
+      <workItem from="1636164662477" duration="2765000" />
     </task>
     <servers />
   </component>
@@ -68,5 +88,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

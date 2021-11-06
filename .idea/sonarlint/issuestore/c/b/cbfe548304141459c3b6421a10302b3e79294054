@@ -1,0 +1,4 @@
+
+|
+java:S1319"fThe type of "libros" should be an interface such as "List" rather than the implementation "ArrayList".(ÑÍÈ¯
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çá‚ÿÿÿÿÿ

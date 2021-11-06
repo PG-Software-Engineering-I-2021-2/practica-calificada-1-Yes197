@@ -1,4 +1,5 @@
-package AgenteVirtualLibreria.org;
+package Entities;
+
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -6,14 +7,13 @@ import java.util.Date;
 public class Autor {
     private String name;
     private Date birthDate;
+    private ArrayList <Libro> books;
 
 
-    private ArrayList <Libro> libros;
-
-    public Autor(String name, Date birthDate, ArrayList <Libro> libros) {
+    public Autor(String name, Date birthDate, ArrayList <Libro> books) {
         this.name = name;
         this.birthDate = birthDate;
-        this.libros = libros;
+        this.books = books;
     }
 
     public String getName() {

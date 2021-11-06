@@ -1,14 +1,10 @@
-package AgenteVirtualLibreria.org;
+package Entities;
 
-import java.util.ArrayList;
 
 public class Libro {
     private String name;
     private int year;
     private String autor;
-
-
-    private final ArrayList<Autor> autors = new ArrayList<>();
 
 
     public Libro(String name, int year, String autor) {
