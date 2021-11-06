@@ -1,10 +1,8 @@
 package Entities;
-
-
 import java.util.ArrayList;
 import java.util.Date;
 
-public class Autor {
+public class Autor implements IAutor{
     private String name;
     private Date birthDate;
     private ArrayList <Libro> books;

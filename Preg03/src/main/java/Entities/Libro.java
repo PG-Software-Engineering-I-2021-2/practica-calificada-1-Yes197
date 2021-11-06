@@ -1,7 +1,7 @@
 package Entities;
 
 
-public class Libro {
+public class Libro implements ILibro{
     private String name;
     private int year;
     private String autor;

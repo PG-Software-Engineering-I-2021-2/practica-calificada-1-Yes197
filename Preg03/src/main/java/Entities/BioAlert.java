@@ -1,6 +1,6 @@
 package Entities;
 
-public class BioAlert {
+public class BioAlert implements ISystemBioAlert{
     private static BioAlert bioAlert;
     private Libro libro;
 
@@ -15,7 +15,12 @@ public class BioAlert {
         return bioAlert;
     }
 
-    void solicitarPrestamo (libr){
+    @Override
+    public ILibro crearLibro() {
+        return new Libro();
+    }
+
+    void ILibro (){
 
     }
 

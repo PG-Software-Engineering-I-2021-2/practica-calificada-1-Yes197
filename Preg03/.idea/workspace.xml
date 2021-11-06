@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67ed661b-db29-4710-b778-0874f8515b61" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db3f36052038ba8b3264d7c64a1c9b1d6c4d83da" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/IAutor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/CopiaID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entities/CopiaID.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/IRulerControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entities/IRulerControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/RulerControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entities/RulerControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entities/Autor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/BioAlert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entities/BioAlert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/Copia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entities/Copia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/ISystemBioAlert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entities/ISystemBioAlert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entities/Libro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -62,7 +64,7 @@
       <workItem from="1636162306953" duration="1615000" />
       <workItem from="1636163966428" duration="663000" />
       <workItem from="1636164662477" duration="4709000" />
-      <workItem from="1636202021432" duration="6700000" />
+      <workItem from="1636202021432" duration="8756000" />
     </task>
     <servers />
   </component>

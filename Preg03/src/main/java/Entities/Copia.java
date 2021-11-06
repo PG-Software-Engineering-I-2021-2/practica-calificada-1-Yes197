@@ -1,6 +1,7 @@
 package Entities;
 
-public class Copia {
+public class Copia implements ICopia{
+    
     private String name;
     private int year;
     private String autor;
